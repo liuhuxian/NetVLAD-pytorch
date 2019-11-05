@@ -1,5 +1,5 @@
 # NetVLAD-pytorch
-Pytorch implementation of NetVLAD &amp; Online Hardest Triplet Loss.
+liuhuxian Pytorch implementation of NetVLAD &amp; Online Hardest Triplet Loss.
 In NetVLAD, broadcasting is used to calculate residuals of clusters and it makes whole calculation time much faster. 
 
 NetVLAD: https://arxiv.org/abs/1511.07247
